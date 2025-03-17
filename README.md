@@ -5,11 +5,11 @@
 
 - 👨‍💻 Some of my projects are available at [www.ugwukingsley.com](www.ugwukingsley.com)
 
-- 📫 How to reach me **kingsleyikenna2019@gmial.com**
+- 📫 How to reach me **kingsleyikenna2019@gmail.com**
 
 - 📄 Know about my experiences [www.ugwukingsley.com](www.ugwukingsley.com)
 
-- ⚡ Fun fact **I love cycling**
+- ⚡ Fun fact **I love organic chemistry**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
