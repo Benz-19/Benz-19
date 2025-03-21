@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benz-19" alt="benz-19" /></a> </p>
 
-- 👨‍💻 Some of my projects are available at [www.ugwukingsley.com](www.ugwukingsley.com)
+- 👨‍💻 Some of my projects are available at [www.ugwukingsley.com](https://www.ugwukingsley.com)
 
 - 📫 How to reach me **kingsleyikenna2019@gmail.com**
 
-- 📄 Know about my experiences [www.ugwukingsley.com](www.ugwukingsley.com)
+- 📄 Know about my experiences [www.ugwukingsley.com](https://www.ugwukingsley.com)
 
 - ⚡ Fun fact **I love organic chemistry**
 
