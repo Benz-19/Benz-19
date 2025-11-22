@@ -3,9 +3,10 @@
 
 <p align="left">
   <a href="https://github.com/Benz-19/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Benz-19" alt="Benz-19" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Benz-19" alt="trophy" />
   </a>
 </p>
+
 
 - 👨‍💻 Some of my projects are available at [www.ugwukingsley.com](https://www.ugwukingsley.com)
 
