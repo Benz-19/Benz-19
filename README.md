@@ -1,17 +1,14 @@
-<h1 align="center">Hi 👋, I'm Ugwu Kingsley!</h1>
+<h1 align="center">Hi, I'm Ugwu Kingsley!</h1>
 <h3 align="center">A passionate backend developer.</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Benz-19)](https://github.com/Benz-19/github-profile-trophy)
 
+- Some of my projects are available at [www.ugwukingsley.com](https://www.ugwukingsley.com)
 
+- How to reach me **kingsleyikenna2019@gmail.com**
 
-- 👨‍💻 Some of my projects are available at [www.ugwukingsley.com](https://www.ugwukingsley.com)
+- Know about my experiences [www.ugwukingsley.com](https://www.ugwukingsley.com)
 
-- 📫 How to reach me **kingsleyikenna2019@gmail.com**
-
-- 📄 Know about my experiences [www.ugwukingsley.com](https://www.ugwukingsley.com)
-
-- ⚡ Fun fact **I love organic chemistry**
+- Fun fact **I love organic chemistry**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
