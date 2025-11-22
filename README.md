@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ugwu Kingsley!</h1>
 <h3 align="center">A passionate backend developer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benz-19" alt="benz-19" /></a> </p>
+<p align="left">
+  <a href="https://github.com/Benz-19/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Benz-19" alt="Benz-19" />
+  </a>
+</p>
 
 - 👨‍💻 Some of my projects are available at [www.ugwukingsley.com](https://www.ugwukingsley.com)
 
