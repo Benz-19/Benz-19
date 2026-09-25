@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ugwu Kingsley!</h1>
-<h3 align="center">A passionate backend developer.</h3>
+<h3 align="center">A passionate backend developer anc CRM Functional Analyst.</h3>
 
 
 - Some of my projects are available at [www.ugwukingsley.com](https://www.ugwukingsley.com)
